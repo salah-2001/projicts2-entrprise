@@ -1,0 +1,79 @@
+.nav_p{
+  color: rgb(255, 0, 0);
+  font-size: 23px;
+}
+.carsour_img
+{
+  height: 560px;
+}
+.nav-h
+{
+ padding-left: 33px;
+}
+.a-h
+{
+  font-size: 16px;
+  font-style: inherit;
+  
+}
+.a_hh
+{
+  margin-left: 8px;
+}
+.jum_3
+{
+  margin-bottom: 70px;
+}
+.objectif_h3
+{
+  font-size: 50px;
+  margin-bottom: 35px;
+  margin-top: 29px;
+}
+.objectif_h3-samp
+{
+  color: rgb(255, 0, 0);
+}
+.objectif_p
+{
+  font-size:18px ;
+  font-style: italic;
+}
+.m_p
+{
+  margin-bottom: 20px;
+}
+.m_pp
+{
+  margin-bottom: 11px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+.em_l
+{
+  margin-top: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500&display=swap');
+.l_v
+{
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: rgb(77, 77, 77);
+  text-align: center;
+  font-family: 'Fraunces', serif;
+}
+.u_k
+{
+  margin-top: 50px;
+  margin-bottom: 130px;
+}
+.u_kk
+{
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+.c_f
+{
+  height: 400px;
+  margin-bottom: 0px;
+}
